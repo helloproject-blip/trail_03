@@ -1,0 +1,20 @@
+export const ALL_OBSTACLES = [
+      { id: 1, name: 'Ride over poles', icon: 'redo-dot' },
+      { id: 2, name: 'Jump', icon: 'minus' },
+      { id: 3, name: 'Sidepass', icon: 'chevrons-right' },
+      { id: 4, name: 'Lime Circle', icon: 'disc' },
+      { id: 5, name: 'Square', icon: 'frame' },
+      { id: 6, name: 'Gate', icon: 'text-cursor' },
+      { id: 7, name: 'Back through', icon: 'waypoints' },
+      { id: 8, name: 'Bridge', icon: 'rectangle-ellipsis' },
+      { id: 9, name: 'Water Hazard', icon: 'rectangle-vertical' },
+      { id: 10, name: 'Simulated Water', icon: 'waves' },
+      { id: 11, name: 'Carrying Object', icon: 'shopping-bag' },
+      { id: 12, name: 'Drag or Pull', icon: 'spline' },
+      { id: 13, name: 'Slicker', icon: 'rotate-ccw' },
+      { id: 14, name: 'Mailbox', icon: 'milestone' },
+      { id: 15, name: 'Ground Tie', icon: 'person-standing' },
+      { id: 16, name: 'Serpentine', icon: 'traffic-cone' },
+      { id: 17, name: 'Jog-around', icon: 'dice-1' },
+      { id: 18, name: 'Jog-through', icon: 'route' }
+    ];
